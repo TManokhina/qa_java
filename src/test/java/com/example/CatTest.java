@@ -35,3 +35,4 @@ public class CatTest {
         assertEquals(expectedFood, cat.getFood());
     }
 }
+
